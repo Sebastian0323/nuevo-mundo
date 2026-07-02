@@ -1,0 +1,25 @@
+isEnabled: true
+name: <g:#4A4A6A:#5A5A7A>Dark Acolyte</g>
+role: <g:#3A3A5A:#4A4A6A><Dark Cathedral></g>
+profession: CraftProfession{holder=Reference{ResourceKey[minecraft:villager_profession
+  / minecraft:cleric]=VillagerProfession[name=translation{key='entity.minecraft.villager.cleric',
+  args=[]}, heldJobSite=net.minecraft.world.entity.npc.villager.VillagerProfession$$Lambda/0x0000000052a94970@189f22ce,
+  acquirableJobSite=net.minecraft.world.entity.npc.villager.VillagerProfession$$Lambda/0x0000000052a94bd0@57d75e88,
+  requestedItems=[], secondaryPoi=[], workSound=SoundEvent[location=minecraft:entity.villager.work_cleric,
+  fixedRange=Optional.empty], tradeSetsByLevel={1=>ResourceKey[minecraft:trade_set
+  / minecraft:cleric/level_1], 2=>ResourceKey[minecraft:trade_set / minecraft:cleric/level_2],
+  3=>ResourceKey[minecraft:trade_set / minecraft:cleric/level_3], 4=>ResourceKey[minecraft:trade_set
+  / minecraft:cleric/level_4], 5=>ResourceKey[minecraft:trade_set / minecraft:cleric/level_5]}]}}
+spawnLocation: em_adventurers_guild,289.5,92,258.5,0,0
+spawnLocations: []
+greetings:
+- ''
+dialog: []
+farewell: []
+canTalk: true
+activationRadius: 1.0
+interactionType: COMMAND
+customModel: em_ag_darkacolyte
+command: em dungeontp dark_cathedral_lair.yml
+syncMovement: false
+scripts: []

@@ -1,0 +1,266 @@
+[16:25:13] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[16:25:13] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[16:25:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:25:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[16:25:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - AxGraves (1.29.0), BackpackPlus (3.2.0), Chunky (1.5.3), EliteMobs (10.7.2), LevelledMobs (4.5.3.1 b155), SetHome (6.2), SkinsRestorer (15.12.4), Timber (1.8.4)
+[16:25:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:25:21] [ServerMain/INFO]: Loaded 1515 recipes
+[16:25:21] [ServerMain/INFO]: Loaded 1617 advancements
+[16:25:21] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:25:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 456.6ms
+[16:25:22] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[16:25:22] [Server thread/INFO]: Loading properties
+[16:25:23] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[16:25:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:25:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:25:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:25:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:25:25] [Server thread/INFO]: Default game type: SURVIVAL
+[16:25:25] [Server thread/INFO]: Generating keypair
+[16:25:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:25:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:25:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loading 4 libraries... please wait
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/com/zaxxer/HikariCP/7.0.2/HikariCP-7.0.2.jar
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.6.0/mysql-connector-j-9.6.0.jar
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.jar
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/org/xerial/sqlite-jdbc/3.51.2.0/sqlite-jdbc-3.51.2.0.jar
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/org/postgresql/postgresql/42.7.10/postgresql-42.7.10.jar
+[16:25:26] [Server thread/INFO]: [SpigotLibraryLoader] [BackpackPlus] Loaded library /workspaces/nuevo-mundo/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.52.0/checker-qual-3.52.0.jar
+[16:25:26] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.5.3.1 b155
+[16:25:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.4
+[16:25:26] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2
+[16:25:26] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.29.0
+[16:25:26] [Server thread/INFO]: [EliteMobs] Loading server plugin EliteMobs v10.7.2
+[16:25:26] [Server thread/INFO]: [EliteMobs] MagmaCore v1.29-SNAPSHOT initialized!
+[16:25:26] [Server thread/INFO]: [EliteMobs] Registered /logify command
+[16:25:26] [Server thread/INFO]: [EliteMobs] Registered /nightbreaklogin command
+[16:25:26] [Server thread/INFO]: [EliteMobs] Registered /nightbreak command
+[16:25:26] [Server thread/INFO]: [EliteMobs] No account token found. Use /nightbreaklogin <token> to register your token.
+[16:25:26] [Server thread/WARN]: [EliteMobs] Error loading WorldGuard. EliteMob-specific flags will not work. Except if you just reloaded the plugin, in which case they will totally work.
+[16:25:26] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.8.4
+[16:25:26] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.5.3
+[16:25:26] [Server thread/INFO]: [BackpackPlus] Loading server plugin BackpackPlus v3.2.0
+[16:25:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:25:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.4
+[16:25:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[16:25:28] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:25:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:25:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:25:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:25:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:25:28] [Server thread/INFO]: Preparing level "world"
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.4
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: a5b2c20
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:25:29] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[16:25:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[16:25:30] [Server thread/INFO]: Preparing spawn area: 100%
+[16:25:30] [Server thread/INFO]: Prepared spawn area in 5 ms
+[16:25:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[16:25:30] [Server thread/INFO]: Prepared spawn area in 0 ms
+[16:25:30] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[16:25:30] [Server thread/INFO]: Prepared spawn area in 3 ms
+[16:25:30] [Server thread/INFO]: Done preparing level "world" (1.126s)
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.5.3.1 b155
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[16:25:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Current rules hash: a4b1b882e39e23f334fa76c5a7c13c42f8e6b3a616a6740e1bcc3fe337b63f80
+[16:25:30] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[16:25:30] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 424ms)
+[16:25:30] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2
+[16:25:30] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.29.0
+[16:25:31] [Server thread/INFO]: [EliteMobs] Enabling EliteMobs v10.7.2
+[16:25:31] [Server thread/INFO]:  _____ _     _____ _____ ________  ______________  _____
+[16:25:31] [Server thread/INFO]: |  ___| |   |_   _|_   _|  ___|  \/  |  _  | ___ \/  ___|
+[16:25:31] [Server thread/INFO]: | |__ | |     | |   | | | |__ | .  . | | | | |_/ /\ `--.
+[16:25:31] [Server thread/INFO]: |  __|| |     | |   | | |  __|| |\/| | | | | ___ \ `--. \
+[16:25:31] [Server thread/INFO]: | |___| |_____| |_  | | | |___| |  | \ \_/ / |_/ //\__/ /
+[16:25:31] [Server thread/INFO]: \____/\_____/\___/  \_/ \____/\_|  |_/\___/\____/ \____/
+[16:25:31] [Server thread/INFO]: By MagmaGuy - v. 10.7.2
+[16:25:31] [Server thread/INFO]: [EliteMobs] Supported server version detected: v26
+[16:25:31] [Server thread/INFO]: [Timber] Enabling Timber v1.8.4
+[16:25:31] [Server thread/WARN]: LogBlock isn't injected! 
+[16:25:31] [Server thread/WARN]: Install the plugin to improve tree detection 
+[16:25:31] [Server thread/WARN]: Download link: https://www.curseforge.com/minecraft/bukkit-plugins/logblocks 
+[16:25:31] [Server thread/INFO]: [Chunky] Enabling Chunky v1.5.3
+[16:25:32] [Server thread/INFO]: [BackpackPlus] Enabling BackpackPlus v3.2.0
+[16:25:32] [Server thread/INFO]: [BackpackPlus] Loaded 10 blocked interaction blocks.
+[16:25:32] [Server thread/INFO]: [BackpackPlus] [Settings] Configuration loaded successfully. No missing fields detected.
+[16:25:32] [Server thread/INFO]: [BackpackPlus] [Pack] No update needed; current readme is up to date.
+[16:25:32] [Server thread/INFO]: [BackpackPlus] [Database] Configuration loaded successfully. No missing fields detected.
+[16:25:32] [Server thread/INFO]: [BackpackPlus] [Database] SQLite Successfully connected to database
+[16:25:32] [Server thread/INFO]: [BackpackPlus] [Database] [SQLite] Tables and indexes created successfully.
+[16:25:32] [Server thread/INFO]: [BackpackPlus] Language used: eng
+[16:25:32] [Server thread/INFO]: [BackpackPlus] Plugin initialized successfully.
+[16:25:32] [Server thread/INFO]: [spark] Starting background profiler...
+[16:25:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:25:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:25:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:25:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:25:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:25:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:25:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:25:34] [Server thread/INFO]: Running delayed init tasks
+[16:25:34] [Craft Scheduler Thread - 8 - BackpackPlus/INFO]: [BackpackPlus] Startup ZIP: plugin-all-2026-07-02_03-57.log
+[16:25:34] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] Language set to English - using plugin defaults
+[16:25:34] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] Other boss mob plugins have been detected, high compatibility mode will be used!
+[16:25:34] [Craft Scheduler Thread - 6 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[16:25:34] [Craft Scheduler Thread - 6 - BackpackPlus/INFO]: The plugin is up to date: (RELEASE 3.2.0)
+[16:25:34] [Craft Scheduler Thread - 6 - BackpackPlus/INFO]: =============================[BackpackPlus]=============================
+[16:25:34] [Server thread/INFO]: Done (22.903s)! For help, type "help"
+[16:25:34] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] Deleting unused config values.
+[16:25:34] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 12 build(s) behind ***
+[16:25:34] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[16:25:35] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 126 ms to scan 1 urls, producing 1 keys and 61 values
+[16:25:35] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 20 ms to scan 1 urls, producing 1 keys and 17 values
+[16:25:36] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 18 ms to scan 1 urls, producing 5 keys and 72 values
+[16:25:36] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[16:25:37] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 48 ms to scan 1 urls, producing 15 keys and 87 values
+[16:25:37] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 37 ms to scan 107 urls, producing 0 keys and 0 values
+[16:25:37] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 84 values
+[16:25:37] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] Loaded 84 skill bonus configurations.
+[16:25:37] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 13 ms to scan 1 urls, producing 1 keys and 72 values
+[16:25:39] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 69 values
+[16:25:39] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 12 values
+[16:25:39] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 3 ms to scan 1 urls, producing 1 keys and 58 values
+[16:25:39] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 1 ms to scan 1 urls, producing 1 keys and 5 values
+[16:25:39] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 19 ms to scan 107 urls, producing 0 keys and 0 values
+[16:25:39] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[16:25:39] [Server thread/INFO]: [EliteMobs] WorldGuard compatibility is not enabled!
+[16:25:39] [Server thread/INFO]: [EliteMobs] Opened database successfully
+[16:25:39] [Server thread/INFO]: [EliteMobs] [Skills] Skill system migration already complete.
+[16:25:40] [Server thread/INFO]: [EliteMobs] Initializing skill bonuses...
+[16:25:40] [Server thread/INFO]: [EliteMobs] Registered 84 skill bonuses.
+[16:25:40] [Server thread/INFO]: [EliteMobs] Registered location ownership provider: EliteMobs (plugin=EliteMobs)
+[16:25:40] [Server thread/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[16:25:40] [Server thread/INFO]: [com.magmaguy.elitemobs.shaded.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[16:25:40] [Server thread/INFO]: [EliteMobs] EliteMobs fully initialized!
+[16:25:40] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] Latest public release is 10.7.2
+[16:25:40] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] Your version is 10.7.2
+[16:25:40] [Craft Scheduler Thread - 9 - EliteMobs/INFO]: [EliteMobs] You are running the latest version!
+[16:25:41] [Craft Scheduler Thread - 5 - EliteMobs/INFO]: [EliteMobs] Parsed 58 content versions from Nightbreak API
+[16:26:49] [Server thread/INFO]: Unknown or incomplete command. See below for error
+podman start playit<--[HERE]
+[16:32:25] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[16:32:26] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [EliteMobs]
+[16:32:33] [Server thread/INFO]: Sebas23m joined the game
+[16:32:33] [Server thread/INFO]: Sebas23m[/127.231.72.140:50927] logged in with entity id 1 at ([minecraft:overworld]288.7653771397866, 103.0, 223.36188008038113)
+[16:32:33] [Craft Scheduler Thread - 5 - EliteMobs/INFO]: [EliteMobs] User 05baa57d-e0e2-3245-950d-ef017ffd725d data successfully read!
+[16:37:01] [Server thread/INFO]: Villager Villager['Fletcher'/28, uuid='0b586706-165e-4a71-abda-4fd895225628', l='ServerLevel[world]', x=291.69, y=102.00, z=227.69, cpos=[18, 14], tl=5403, v=true] died, message: 'Fletcher was slain by Zombie'
+[16:37:11] [Server thread/INFO]: Villager Villager['Nitwit'/16, uuid='5b8f0b7a-03ff-4cbf-a25a-d67398526525', l='ServerLevel[world]', x=282.61, y=103.19, z=215.92, cpos=[17, 13], tl=5615, v=true] died, message: 'Nitwit was slain by Zombie'
+[16:37:15] [Server thread/INFO]: Villager Villager['Armorer'/17, uuid='13351e42-992b-4378-b047-f56486970945', l='ServerLevel[world]', x=282.61, y=103.19, z=215.92, cpos=[17, 13], tl=5696, v=true] died, message: 'Armorer was slain by Zombie'
+[16:37:18] [User Authenticator #1/INFO]: UUID of player Cami25m is 29b1f16c-549e-313c-bd7b-cbd5ab779500
+[16:37:24] [Server thread/INFO]: Cami25m joined the game
+[16:37:24] [Server thread/INFO]: Cami25m[/127.231.72.140:48427] logged in with entity id 650 at ([minecraft:overworld]-19.5, 73.0, -9.5)
+[16:37:25] [Craft Scheduler Thread - 10 - EliteMobs/INFO]: [EliteMobs] No player entry detected, generating new entry!
+[16:39:34] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:41:43] [Server thread/INFO]: Cami25m was shot by Lvl 12 | Stray
+[16:41:45] [Server thread/INFO]: [BackpackPlus] [Database] [SQLite] (getPlayerDeathItemsAndDelete) Transaction committed for player: 29b1f16c-549e-313c-bd7b-cbd5ab779500
+[16:42:49] [Server thread/INFO]: Sebas23m issued server command: /tp Cami25m Sebas23m
+[16:42:49] [Server thread/INFO]: [Sebas23m: Teleported Cami25m to Sebas23m]
+[16:43:33] [Server thread/INFO]: Cami25m has made the advancement [Isn't It Iron Pick]
+[16:43:54] [Server thread/INFO]: Cami25m has made the advancement [Stone Age]
+[16:48:14] [Server thread/INFO]: Cami25m has made the advancement [Sweet Dreams]
+[16:50:20] [Server thread/INFO]: Sebas23m issued server command: /plugins
+[16:50:36] [Server thread/INFO]: Sebas23m issued server command: /timber
+[16:51:50] [Server thread/INFO]: Sebas23m has reached the goal [Zombie Doctor]
+[16:52:41] [Server thread/INFO]: Sebas23m has made the advancement [What a Deal!]
+[16:53:11] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[16:53:20] [Server thread/INFO]: jp7806073 joined the game
+[16:53:20] [Server thread/INFO]: jp7806073[/127.252.188.111:34613] logged in with entity id 4347 at ([minecraft:overworld]285.01565952507093, 104.0, 208.99326937132088)
+[16:53:21] [Craft Scheduler Thread - 11 - EliteMobs/INFO]: [EliteMobs] User 68efd73e-a0cd-33f7-a574-2c7e5d7949df data successfully read!
+[16:55:38] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[16:55:38] [Server thread/INFO]: jp7806073 left the game
+[16:56:32] [Server thread/INFO]: Cami25m has made the advancement [Acquire Hardware]
+[16:56:55] [User Authenticator #3/INFO]: UUID of player chorizo23 is d1c69885-0cd5-31aa-a7dc-bfae39ac0d78
+[16:56:57] [Server thread/INFO]: chorizo23 joined the game
+[16:56:57] [Server thread/INFO]: chorizo23[/127.107.5.179:34753] logged in with entity id 4773 at ([minecraft:overworld]275.69999998807907, 104.0, 244.69999998807907)
+[16:56:58] [Craft Scheduler Thread - 12 - EliteMobs/INFO]: [EliteMobs] User d1c69885-0cd5-31aa-a7dc-bfae39ac0d78 data successfully read!
+[16:57:26] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[16:57:28] [Server thread/INFO]: jp7806073 joined the game
+[16:57:28] [Server thread/INFO]: jp7806073[/127.252.188.111:44447] logged in with entity id 4834 at ([minecraft:overworld]285.01565952507093, 104.0, 208.99326937132088)
+[16:57:29] [Craft Scheduler Thread - 12 - EliteMobs/INFO]: [EliteMobs] User 68efd73e-a0cd-33f7-a574-2c7e5d7949df data successfully read!
+[17:01:57] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[17:01:57] [Server thread/INFO]: jp7806073 left the game
+[17:02:13] [Async Chat Thread - #0/INFO]: [Not Secure] <chorizo23> a
+[17:02:27] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[17:02:29] [Server thread/INFO]: jp7806073 joined the game
+[17:02:29] [Server thread/INFO]: jp7806073[/127.252.188.111:34381] logged in with entity id 5539 at ([minecraft:overworld]288.0301649148586, 103.875, 225.72836453126007)
+[17:02:30] [Craft Scheduler Thread - 5 - EliteMobs/INFO]: [EliteMobs] User 68efd73e-a0cd-33f7-a574-2c7e5d7949df data successfully read!
+[17:05:53] [Server thread/INFO]: Named entity Creeper['「⚔」 Elite Creeper'/6389, uuid='3f238d7c-be2f-47c8-8630-613eb3a6e809', l='ServerLevel[world]', x=-31.60, y=21.29, z=252.78, cpos=[-2, 15], tl=1242, v=true] died: 「⚔」 Elite Creeper was slain by Sebas23m
+[17:07:28] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[17:07:28] [Server thread/INFO]: Sebas23m left the game
+[17:16:10] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[17:16:10] [Server thread/INFO]: jp7806073 left the game
+[17:17:30] [Server thread/INFO]: Stopping the server
+[17:17:30] [Server thread/INFO]: Stopping server
+[17:17:30] [Server thread/INFO]: [BackpackPlus] Disabling BackpackPlus v3.2.0
+[17:17:30] [Server thread/INFO]: [BackpackPlus] Starting plugin shutdown...
+[17:17:30] [Server thread/INFO]: [BackpackPlus] [Database] [SQLite] (saveAllBackpacks) Saved: 0
+[17:17:30] [Server thread/INFO]: [BackpackPlus] Starting SQLite disconnect...
+[17:17:30] [Server thread/INFO]: [BackpackPlus] SQLite successfully disconnected
+[17:17:30] [Server thread/INFO]: [BackpackPlus] Plugin shutdown completed.
+[17:17:30] [Server thread/INFO]: [Chunky] Disabling Chunky v1.5.3
+[17:17:30] [Server thread/INFO]: [Timber] Disabling Timber v1.8.4
+[17:17:30] [Server thread/INFO]: [EliteMobs] Disabling EliteMobs v10.7.2
+[17:17:30] [Server thread/INFO]: [EliteMobs] Starting EliteMobs shutdown sequence...
+[17:17:30] [Server thread/INFO]: [EliteMobs] Saving EliteMobs databases...
+[17:17:30] [Server thread/INFO]: [EliteMobs] All done! Good night.
+[17:17:30] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.29.0
+[17:17:30] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2
+[17:17:30] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.4
+[17:17:30] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.5.3.1 b155
+[17:17:30] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[17:17:30] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 0ms)
+[17:17:30] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[17:17:30] [Craft Scheduler Thread - 2 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[17:17:30] [Server thread/INFO]: Saving players
+[17:17:30] [Server thread/INFO]: Saving worlds
+[17:17:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:17:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[17:17:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[17:17:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Saved 834 block chunks, 493 entity chunks, 4 poi chunks in world 'minecraft:overworld' in 1.02s
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[17:17:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[17:17:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[17:17:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[17:17:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:17:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:17:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:17:31] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[17:17:31] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[17:17:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:17:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

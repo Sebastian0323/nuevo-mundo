@@ -1,0 +1,25 @@
+isEnabled: true
+name: <g:#5A8A5A:#6A9A6A>Norse Guide</g>
+role: <g:#4A7A4A:#5A8A5A><Yggdrasil></g>
+profession: CraftProfession{holder=Reference{ResourceKey[minecraft:villager_profession
+  / minecraft:armorer]=VillagerProfession[name=translation{key='entity.minecraft.villager.armorer',
+  args=[]}, heldJobSite=net.minecraft.world.entity.npc.villager.VillagerProfession$$Lambda/0x0000000052a94970@353d104c,
+  acquirableJobSite=net.minecraft.world.entity.npc.villager.VillagerProfession$$Lambda/0x0000000052a94bd0@60a4711,
+  requestedItems=[], secondaryPoi=[], workSound=SoundEvent[location=minecraft:entity.villager.work_armorer,
+  fixedRange=Optional.empty], tradeSetsByLevel={1=>ResourceKey[minecraft:trade_set
+  / minecraft:armorer/level_1], 2=>ResourceKey[minecraft:trade_set / minecraft:armorer/level_2],
+  3=>ResourceKey[minecraft:trade_set / minecraft:armorer/level_3], 4=>ResourceKey[minecraft:trade_set
+  / minecraft:armorer/level_4], 5=>ResourceKey[minecraft:trade_set / minecraft:armorer/level_5]}]}}
+spawnLocation: em_adventurers_guild,288.5,92,288.5,-90,0
+spawnLocations: []
+greetings:
+- ''
+dialog: []
+farewell: []
+canTalk: true
+activationRadius: 1.0
+interactionType: COMMAND
+customModel: em_ag_norseguide
+command: em dungeontp yggdrasil_realm.yml
+syncMovement: false
+scripts: []

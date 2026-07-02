@@ -1,0 +1,25 @@
+isEnabled: true
+name: <g:#6A2A2A:#7A3A3A>Blood Servant</g>
+role: <g:#5A1A1A:#6A2A2A><Vampire Manor></g>
+profession: CraftProfession{holder=Reference{ResourceKey[minecraft:villager_profession
+  / minecraft:butcher]=VillagerProfession[name=translation{key='entity.minecraft.villager.butcher',
+  args=[]}, heldJobSite=net.minecraft.world.entity.npc.villager.VillagerProfession$$Lambda/0x0000000052a94970@3cdd3ef7,
+  acquirableJobSite=net.minecraft.world.entity.npc.villager.VillagerProfession$$Lambda/0x0000000052a94bd0@5e3bdd5b,
+  requestedItems=[], secondaryPoi=[], workSound=SoundEvent[location=minecraft:entity.villager.work_butcher,
+  fixedRange=Optional.empty], tradeSetsByLevel={1=>ResourceKey[minecraft:trade_set
+  / minecraft:butcher/level_1], 2=>ResourceKey[minecraft:trade_set / minecraft:butcher/level_2],
+  3=>ResourceKey[minecraft:trade_set / minecraft:butcher/level_3], 4=>ResourceKey[minecraft:trade_set
+  / minecraft:butcher/level_4], 5=>ResourceKey[minecraft:trade_set / minecraft:butcher/level_5]}]}}
+spawnLocation: em_adventurers_guild,298.5,92,288.5,90,0
+spawnLocations: []
+greetings:
+- ''
+dialog: []
+farewell: []
+canTalk: true
+activationRadius: 1.0
+interactionType: COMMAND
+customModel: em_ag_bloodservant
+command: em dungeontp vampire_manor_lair.yml
+syncMovement: false
+scripts: []
